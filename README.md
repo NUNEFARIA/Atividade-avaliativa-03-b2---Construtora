@@ -1,4 +1,3 @@
-[Uploading Construtora.md…]()
 *Desenvolva um sistema CRUD para uma construtora que permita o cadastro, consulta, atualização e exclusão de funcionários e construções.*
 
 *O sistema deve possibilitar associar funcionários a uma ou mais construções, permitindo gerenciar quais funcionários estão designados para cada obra.*
